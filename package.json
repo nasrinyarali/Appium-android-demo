@@ -1,0 +1,19 @@
+{
+  "name": "appium-android-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "appium": "^3.9.0",
+    "appium-uiautomator2-driver": "^8.7.3",
+    "tsx": "^4.23.15",
+    "webdriverio": "^10.1.0"
+  }
+}
